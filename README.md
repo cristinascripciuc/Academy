@@ -1,4 +1,3 @@
-# Academy
 # Progetto di Esempio
 
 Questo repository contiene un progetto di esempio per dimostrare l'utilizzo di Git e GitHub.
@@ -31,6 +30,3 @@ git clone https://github.com/tuo-nome-utente/nome-repository.git
 ## Contribuzione
 
 Sono benvenuti contributi e suggerimenti per migliorare questo progetto. Se desideri contribuire, segui questi passaggi:
-
-1. Forka il repository su GitHub.
-2. Crea un nuovo branch per il tuo lavoro:
