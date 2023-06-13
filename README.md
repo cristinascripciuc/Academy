@@ -17,8 +17,7 @@ Uno screenshot dell'applicazione in esecuzione.
 ## Installazione
 
 1. Clona il repository utilizzando il comando:
-git clone https://github.com/tuo-nome-utente/nome-repository.git
-
+git clone https://github.com/cristinascripciuc/Academy.git
 2. Apri il file `index.html` nel tuo browser preferito.
 
 ## Utilizzo
