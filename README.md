@@ -5,7 +5,7 @@ Questo repository contiene un progetto di esempio per dimostrare l'utilizzo di G
 
 ## Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](sole.png)
 
 Uno screenshot dell'applicazione in esecuzione.
 
